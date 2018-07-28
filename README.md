@@ -143,23 +143,23 @@ I obtained 5 images from google to test my model. I included serval examples tha
 One image which was not classified correctly was a fallen over yield sign. Most of the time, signs are not going to be fallen over. One way to make the model more robust is augmenting the training data to include rotations of images.
 One other image was not very confident in its classification. The image had a sign that was slightly turned away. This can also benefit from data augmentation by adding perspective transforms of the images.
 
-![png](output_47_0.png)
+![png](output_image/output_47_0.png)
 
 
 
-![png](output_47_1.png)
+![png](output_image/output_47_1.png)
 
 
 
-![png](output_47_2.png)
+![png](output_image/output_47_2.png)
 
 
 
-![png](output_47_3.png)
+![png](output_image/output_47_3.png)
 
 
 
-![png](output_47_4.png)
+![png](output_image/output_47_4.png)
 
 
 ## Improvements
